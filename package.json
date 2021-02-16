@@ -19,7 +19,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/benhurott/react-native-masked-text.git"
+        "url": "git+https://github.com/neoteric-eu/react-native-masked-text.git#master"
     },
     "keywords": [
         "mask",
